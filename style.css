@@ -1,0 +1,56 @@
+* {
+  font-family: helvetica;
+  font-size: 14px;
+}
+section {
+  border: 1px;
+  padding: 20px;
+  overflow: hidden;
+}
+header {
+  border: 1px solid gray;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: gray;
+  font-weight: bold;
+  border-radius: 25px
+  }
+ ul {
+   text-align: center;
+ }
+li {
+  display: inline-block;
+  margin-right: 50px;
+ }
+ a {
+  text-decoration: none;
+  color: white;
+ }
+ h1 {
+   font-size: 20px;
+   text-align: center;
+   }
+div {
+  border: 1px;
+  padding: 20px;
+}
+.right {
+  float: right;
+  width: 200px;
+  }
+img {
+  max-height: 220px;
+  max-width: 220px;
+  float: left;
+  }
+q {
+  quotes: "«" "»";
+}
+footer {
+  background-color: gray;
+  text-align: right;
+  font-size: 12px;
+}
+.phone_tel {
+  color: black;
+}
